@@ -1,4 +1,7 @@
 # animal_calls_game
+
+![calling_game_app](C:\Users\Ankur\OneDrive - Indian Institute of Science\Side\animal_calls_game\calling_game_app.PNG)
+
 # Description
 
 * A very simple desktop GUI game written in MATLAB. 
