@@ -1,6 +1,6 @@
 # animal_calls_game
 
-![calling_game_app](C:\Users\Ankur\OneDrive - Indian Institute of Science\Side\animal_calls_game\calling_game_app.PNG)
+![calling_game_app](calling_game_app.PNG)
 
 # Description
 
